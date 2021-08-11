@@ -6,3 +6,5 @@ In this repository you will find the following:
 - Multidimensional Stock Table Array
 - Conditionals Test
 - Counting Table (Front-End Only)
+
+These snippets were created by me during the first half of 2021 for practice purposes.
