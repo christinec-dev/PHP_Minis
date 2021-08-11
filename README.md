@@ -15,5 +15,7 @@ These snippets were created by me during the first half of 2021 for practice pur
 
 ![image](https://user-images.githubusercontent.com/87696858/129039541-3526fba9-1da5-46e7-b402-baef3bcdd3e1.png)
 
-![image](https://user-images.githubusercontent.com/87696858/129039576-856f68bf-db1b-4816-b1ab-60c4ebfb3d97.png)
+![image](https://user-images.githubusercontent.com/87696858/129039721-dc38891f-69ac-4f36-9e54-341689412c72.png)
+
+![image](https://user-images.githubusercontent.com/87696858/129039754-e5639b66-e1a5-4852-954c-b50580540057.png)
 
