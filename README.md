@@ -12,13 +12,13 @@ These snippets were created by me during the first half of 2021 for practice pur
 
 ## PREVIEW:
 
-![image](https://user-images.githubusercontent.com/87696858/129039448-51a912da-bebf-4df3-a047-ed665026028d.png)
+![image](https://user-images.githubusercontent.com/87696858/129040229-efb2b734-d9ce-4f02-8fdd-e60baf7118eb.png)
 
-![image](https://user-images.githubusercontent.com/87696858/129039510-d61ffceb-0680-44e9-92ba-c9b07fb482d3.png)
+![image](https://user-images.githubusercontent.com/87696858/129039977-90fc595a-bff7-4ab1-b742-259b5d4ab2c4.png)
 
-![image](https://user-images.githubusercontent.com/87696858/129039541-3526fba9-1da5-46e7-b402-baef3bcdd3e1.png)
+![image](https://user-images.githubusercontent.com/87696858/129040015-af59f04a-e8fb-4426-82ca-9c1f0dff10b2.png)
 
-![image](https://user-images.githubusercontent.com/87696858/129039721-dc38891f-69ac-4f36-9e54-341689412c72.png)
+![image](https://user-images.githubusercontent.com/87696858/129040050-62978fba-3872-4db7-acac-e7f894ccc34a.png)
 
-![image](https://user-images.githubusercontent.com/87696858/129039754-e5639b66-e1a5-4852-954c-b50580540057.png)
+![image](https://user-images.githubusercontent.com/87696858/129040094-979bb927-f720-4d62-bd49-661ddcbe59cd.png)
 
